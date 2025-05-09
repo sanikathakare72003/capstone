@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arnavlahane/Projects/End_to_end_major/mlruns/0/7dd4846cc51f4f988f3d7a0c2670dafe/artifacts
+end_time: 1736000443679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7dd4846cc51f4f988f3d7a0c2670dafe
+run_name: delicate-roo-951
+run_uuid: 7dd4846cc51f4f988f3d7a0c2670dafe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736000440639
+status: 3
+tags: []
+user_id: arnavlahane

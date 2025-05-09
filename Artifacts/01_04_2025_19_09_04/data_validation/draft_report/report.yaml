@@ -1,0 +1,51 @@
+active:
+  drift_status: false
+  p_value: 1.0
+age:
+  drift_status: false
+  p_value: 0.05027054028863831
+age_years:
+  drift_status: false
+  p_value: 0.07455783464232968
+alco:
+  drift_status: false
+  p_value: 1.0
+ap_hi:
+  drift_status: false
+  p_value: 0.9447044112627094
+ap_lo:
+  drift_status: false
+  p_value: 0.5256418741631386
+bmi:
+  drift_status: false
+  p_value: 0.45992117336680294
+bp_category:
+  drift_status: false
+  p_value: 0.9592740831837223
+bp_category_encoded:
+  drift_status: false
+  p_value: 0.9592740831837223
+cardio:
+  drift_status: false
+  p_value: 1.0
+cholesterol:
+  drift_status: false
+  p_value: 0.9605829709214031
+gender:
+  drift_status: false
+  p_value: 0.3121503458020336
+gluc:
+  drift_status: false
+  p_value: 1.0
+height:
+  drift_status: false
+  p_value: 0.10037582252564559
+id:
+  drift_status: false
+  p_value: 0.06423968782382938
+smoke:
+  drift_status: false
+  p_value: 1.0
+weight:
+  drift_status: false
+  p_value: 0.760797412241763
